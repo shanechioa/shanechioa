@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7y7y
+- 👋 Hi, I’m @shanechioa
 - 👀 I’m interested in Golang/Rust/Ruby/Python/Java
 - 🌱 I’m currently learning Rust
 
